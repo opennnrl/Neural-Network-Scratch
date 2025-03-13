@@ -3,7 +3,7 @@
 
 # MNIST Neural Network (Fully Connected Network)
 
-This repository contains an implementation of a fully connected neural network using NumPy, and OpenCV to classify MNIST handwritten digits. The model uses multiple hidden layers with ReLU activation and a final softmax output layer.
+This repository contains an implementation of a fully connected neural network using NumPy, and OpenCV to classify MNIST handwritten digits. The model uses multiple hidden layers with ReLU activation and a final softmax output layer. I was trying to this code for checking FP16 stability of training.
 
 ## Features
 - Uses MNIST dataset with downsampled 8x8 images.
