@@ -1,9 +1,9 @@
 # Neural Network
 ## Neural Network Python Scratch for Research
 
-# MNIST Neural Network in NumPy and TensorFlow
+# MNIST Neural Network (Fully Connected Network)
 
-This repository contains an implementation of a fully connected neural network using NumPy, TensorFlow, and OpenCV to classify MNIST handwritten digits. The model uses multiple hidden layers with ReLU activation and a final softmax output layer.
+This repository contains an implementation of a fully connected neural network using NumPy, and OpenCV to classify MNIST handwritten digits. The model uses multiple hidden layers with ReLU activation and a final softmax output layer.
 
 ## Features
 - Uses MNIST dataset with downsampled 8x8 images.
